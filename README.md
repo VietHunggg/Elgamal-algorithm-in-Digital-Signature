@@ -1,1 +1,2 @@
-# Elgamal-algorithm-in-Digital-Signature
+#Elgamal algorithm
+- Language: C++
